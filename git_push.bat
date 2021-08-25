@@ -1,3 +1,3 @@
 git add .
-git commit -m "updated on echo %date%"
+git commit -m "updated on %date%"
 git push github-server master
